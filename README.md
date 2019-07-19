@@ -5,3 +5,5 @@ The class covers basic algorithmic techniques and ideas for computational proble
 
 Offered By
 UNIVERSITY OF CALIFORNIA SAN DIEGO from Coursera
+
+STATUS: On going 
